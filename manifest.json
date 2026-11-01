@@ -1,0 +1,37 @@
+{
+  "name": "The Law Student’s Lexicon",
+  "short_name": "Law Lexicon",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#faf9f5",
+  "theme_color": "#386486",
+  "description": "Legal English and Mongolian reference by Dale A. Vaughn",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/Icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "scope": "./",
+  "id": "./"
+}

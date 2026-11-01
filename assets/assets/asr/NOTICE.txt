@@ -1,0 +1,28 @@
+Mongolian speech recognition model
+
+Source: bayartsogt/whisper-tiny-mn-9
+https://huggingface.co/bayartsogt/whisper-tiny-mn-9
+Pinned revision: eedadf2d9dfda05e6b73267a2f2ea6f589a6f636
+Model author: Bayartsogt (Hugging Face account bayartsogt).
+Model card declares Apache License 2.0; see LICENSE-Apache-2.0.txt.
+Derived from OpenAI Whisper Tiny; see LICENSE-Whisper-MIT.txt.
+Original model card retained as MODEL_CARD.md.
+
+Changes for this application: converted Hugging Face tensors to the OpenAI
+Whisper layout; exported using sherpa-onnx's Whisper ONNX exporter; retained
+the full-precision encoder after paired testing; rewrote the equivalent decoder output matrix product
+to permit int8 quantization of MatMul and Gather weights. No vocabulary was
+added, and no legal phrase recognition table is used.
+For version 1.3.0, token byte fragments use lossless hexadecimal ASCII transport
+through the native runtime and are decoded once after concatenation in Dart.
+This prevents loss of Mongolian UTF-8 fragments; learned token IDs are unchanged.
+
+Exporter: k2-fsa/sherpa-onnx (Apache-2.0), scripts/whisper/export-onnx.py.
+Original copyright and source attribution remain in the retained exporter.
+Runtime: sherpa_onnx 1.13.8 (Apache-2.0); microphone: record 6.2.0 (BSD-3-Clause).
+
+The upstream model card reports 45.5102% word error rate on Common Voice 11
+Mongolian. This is a major accuracy limitation, not an accuracy guarantee.
+The converted model has not been validated for legal terms on physical phones.
+Audio recognition is local; the app's separate MyMemory translation step
+still needs internet and sends the recognized search text to MyMemory.
