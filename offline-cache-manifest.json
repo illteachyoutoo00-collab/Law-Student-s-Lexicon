@@ -1,10 +1,10 @@
 {
-  "version": "67f5e20c28064be2abb7",
+  "version": "2602d1df7b4a59d6dc94",
   "files": [
     {
       "url": ".last_build_id",
       "bytes": 32,
-      "sha256": "a6201e7c0cc926990f4653ef3b35264dcc1244c4575fdc0162e859c3cad7d64e"
+      "sha256": "ae869ca4bf9fc563ee04b557612536662aa89186e9a999838f0c5d8e19525b6a"
     },
     {
       "url": "assets/AssetManifest.bin",
@@ -298,13 +298,13 @@
     },
     {
       "url": "index.html",
-      "bytes": 1733,
-      "sha256": "1af82e76fa23916ce286c07e49b59a94c97dd54275ceab39302166dd347ea784"
+      "bytes": 1755,
+      "sha256": "da6893045961f312d7a618d4d6cd4766d483e45dfd3943aa02c4f2531c4a9b3e"
     },
     {
       "url": "main.dart.js",
-      "bytes": 2931259,
-      "sha256": "595a83f23a575d14734a956db8278ed07c73be48fd21bfbe0ce2de9aeb6df46d"
+      "bytes": 2932293,
+      "sha256": "4406ff66f10c45427fc499919dd48ec95d6964da09746c6e78f902e18c5cf166"
     },
     {
       "url": "manifest.json",
@@ -314,7 +314,7 @@
     {
       "url": "version.json",
       "bytes": 112,
-      "sha256": "49ec2c0dad43733bb512df0f66f18015ed6b8301cde0076de3ec12976312d1d2"
+      "sha256": "0f7cd4bd409fce3ed157d89ad92268b8b3b5e666db3bbc5d88971ccca5f20191"
     }
   ]
 }
