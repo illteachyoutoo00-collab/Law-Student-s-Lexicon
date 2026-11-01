@@ -1,0 +1,85 @@
+Privacy Policy — The Law Student's Lexicon
+
+
+
+
+
+Support
+
+
+Privacy Policy
+
+
+The Law Student's Lexicon — Volume 1Developer: Dale A. VaughnPolicy version label updated: October 20, 2026. Applies to Android version 1.4.15 (33).
+
+
+The Law Student's Lexicon is an educational Legal English reference. It does not require an account. The dictionary and your locally stored translations can be used without an internet connection. Some search and speech features use external services, as explained below.
+
+
+Dictionary searches and online translation
+
+
+English typed searches are performed on your device. Only after you explicitly allow online translation, when you type a Mongolian search or Mongolian voice recognition produces search text, the app may send that text to the MyMemory translation service operated by Translated. Requests can occur automatically after a short typing pause, including before a phrase is complete. A local exact match or a translation already cached for the current session may avoid a request.
+
+
+The request contains the search text, the Mongolian-to-English language pair and a machine-translation setting. Like other internet requests, it exposes your connection's public IP address and normal request metadata to the service. The app does not add your name, email address, account identifier, advertising identifier or GPS location to this request. Do not enter confidential client information or other sensitive personal information into online search.
+
+
+We have not verified MyMemory's current API-specific retention periods, whether it associates searches with IP addresses, whether text is reused, or which downstream translation providers it uses. We therefore cannot promise immediate deletion, anonymity or a particular retention period for these requests. Translated's  (https://translated.com/confidentiality) published website privacy policy has a limited website scope and does not by itself establish all API practices. MyMemory's applicable terms are available from  (https://mymemory.translated.net/) the service's website; contact us for any updated information available to us.
+
+
+The app does not automatically upload your saved translations or student translation records to a translation memory. If you manually place such text in a Mongolian search field, the normal online-search process applies.
+
+
+Voice search and microphone audio
+
+
+Microphone access is used when you start voice search. The default Монгол voice mode uses the bundled Whisper model and sherpa-onnx runtime on your device. The separate Монгол · phone speech service option requires explicit confirmation before selection and uses your configured platform speech provider; that provider may send audio to its servers. Its Mongolian support, accuracy and processing depend on the provider. In the default offline Mongolian mode, the app processes recordings in memory and does not intentionally save or upload those microphone recordings. Recognized Mongolian text may subsequently be sent to MyMemory as described above.
+
+
+English voice search uses the configured Android speech provider on Android and Apple's speech-recognition framework on iOS. Audio may be processed online by that provider; this app does not require that English recognition always remain on the device. Apple controls its own processing and privacy settings. See  (https://www.apple.com/legal/privacy/data/en/ask-siri-dictation/) Apple's speech privacy information. We do not promise a particular Apple retention period for an individual request.
+
+
+On Android, English voice search uses the installed system speech-recognition service, which may process audio online. Its provider depends on the device. This app does not silently switch Mongolian audio to that service.
+
+
+Pronunciation and definition reading use the device's text-to-speech system. There is no separately integrated commercial cloud text-to-speech service in this version.
+
+
+Saved translations and local storage
+
+
+My Translation, Saved Translations, saved versions and first-launch acknowledgment are stored in the app's local storage. The app has no account-based synchronization service. The app may keep local versions, recovery files and removal records to protect your saved work. Removing a displayed saved version does not necessarily erase every local historical or recovery record immediately.
+
+
+Local data remains subject to your device's operating-system backup settings. Uninstalling the app can remove its local data; do not uninstall merely to troubleshoot or test an update. The developer cannot remotely read or delete files stored only on your device.
+
+
+Analytics, advertising and purchases
+
+
+This version has no integrated advertising, analytics or crash-reporting service identified in the application implementation. Apple may independently process App Store purchases, system diagnostics or other platform information under its own policies. This app does not ask you to enter payment-card information and has no in-app subscription or account registration.
+
+
+Your choices and privacy requests
+
+
+You can use English typed search without microphone access. You can manage microphone and speech-recognition permissions in iOS Settings. Online translation is off by default. Use Privacy & online translation in the chapter-navigation menu to allow or turn off MyMemory requests. Turning it off blocks future requests; it cannot recall a request already sent. Permission to use the microphone is distinct from the online translation of recognized text.
+
+
+For questions, access or deletion requests concerning information you voluntarily send to us, email illteachyoutoo@yahoo.com. Applicable rights depend on your location and the information concerned. For data held independently by MyMemory or Apple, use that provider's privacy channels; we can explain the app's request format but cannot guarantee provider deletion or identify anonymous requests without sufficient information.
+
+
+If you contact us by email, your email provider and ours process the message. Send only the details needed for support. Do not send passwords, payment details, confidential legal documents or sensitive microphone recordings. Support messages are handled separately from app searches; we have not established a fixed deletion schedule for support correspondence.
+
+
+Educational use and changes
+
+
+The app is intended as an educational legal-vocabulary reference, not legal advice. Translations and voice recognition may be inaccurate. It is not designed as a children's social service and has no public user-content sharing feature.
+
+
+We may update this policy when the application or provider practices change. The date and applicable version above identify this policy. Contact us if you need clarification.
+
+
+© 2026 Dale A. Vaughn · Support · Privacy contact

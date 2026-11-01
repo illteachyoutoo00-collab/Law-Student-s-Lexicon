@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "hints": [
+    {
+      "heard": "эрээ",
+      "intendedMongolian": "гэрээ",
+      "english": "Contract",
+      "source": "Owner-reported native-speaker device observation: гэрээ transcribed as эрээ. A proposed voice-only interpretation, not a synonym, certified translation, or recognizer repair. Requires an explicit student tap."
+    }
+  ],
+  "textHints": [
+    {
+      "heard": "нөөлөө бомд",
+      "intendedMongolian": "нотлох баримт",
+      "english": "Evidence",
+      "source": "Build33 Samsung SM-G9860 live test, 2026-10-21. Owner confirmed speaking нотлох баримт; UI recorded this incorrect transcript. Voice-only proposal requiring explicit confirmation; not a translation, synonym, acoustic repair, or automatic rewrite."
+    },
+    {
+      "heard": "нөөлөө баримт",
+      "intendedMongolian": "нотлох баримт",
+      "english": "Evidence",
+      "source": "Build33 Samsung SM-G9860 live test, 2026-10-21. Owner confirmed speaking нотлох баримт; UI recorded this incorrect transcript. Voice-only proposal requiring explicit confirmation; not a translation, synonym, acoustic repair, or automatic rewrite."
+    }
+  ]
+}
