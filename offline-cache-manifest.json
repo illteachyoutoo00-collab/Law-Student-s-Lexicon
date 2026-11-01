@@ -1,83 +1,397 @@
 {
-  "cache": "lexicon-direct-mn-59ff4f46bef66481",
-  "precache": [
-    ".gitattributes",
-    ".last_build_id",
-    ".nojekyll",
-    "assets/AssetManifest.bin",
-    "assets/AssetManifest.bin.json",
-    "assets/FontManifest.json",
-    "assets/NOTICES",
-    "assets/assets/book.json",
-    "assets/assets/cover/volume-1.png",
-    "assets/assets/entry_sources.json",
-    "assets/assets/fonts/roboto-bold.ttf",
-    "assets/assets/fonts/roboto-regular.ttf",
-    "assets/assets/lexical_graph.json",
-    "assets/assets/privacy/policy.txt",
-    "assets/assets/terminology.json",
-    "assets/assets/voice_search_hints.json",
-    "assets/fonts/MaterialIcons-Regular.otf",
-    "assets/packages/record_web/assets/js/record.fixwebmduration.js",
-    "assets/packages/record_web/assets/js/record.worklet.js",
-    "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-asr.js",
-    "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-kws.js",
-    "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-punctuation.js",
-    "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-speaker-diarization.js",
-    "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-speech-enhancement.js",
-    "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-tts.js",
-    "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-vad.js",
-    "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-wasm-web.js",
-    "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-wasm-web.wasm",
-    "assets/shaders/ink_sparkle.frag",
-    "assets/shaders/stretch_effect.frag",
-    "canvaskit/canvaskit.js",
-    "canvaskit/canvaskit.js.symbols",
-    "canvaskit/canvaskit.wasm",
-    "canvaskit/chromium/canvaskit.js",
-    "canvaskit/chromium/canvaskit.js.symbols",
-    "canvaskit/chromium/canvaskit.wasm",
-    "canvaskit/skwasm.js",
-    "canvaskit/skwasm.js.symbols",
-    "canvaskit/skwasm.wasm",
-    "canvaskit/skwasm_heavy.js",
-    "canvaskit/skwasm_heavy.js.symbols",
-    "canvaskit/skwasm_heavy.wasm",
-    "canvaskit/webparagraph/canvaskit.js",
-    "canvaskit/webparagraph/canvaskit.js.symbols",
-    "canvaskit/webparagraph/canvaskit.wasm",
-    "canvaskit/wimp.js",
-    "canvaskit/wimp.js.symbols",
-    "canvaskit/wimp.wasm",
-    "fallback-fonts/NotoSansSymbols-OFL.txt",
-    "fallback-fonts/NotoSansSymbols2-OFL.txt",
-    "fallback-fonts/Roboto-LICENSE.txt",
-    "fallback-fonts/notosanssymbols/v43/rP2up3q65FkAtHfwd-eIS2brbDN6gxP34F9jRRCe4W3gfQ8gb_VFRkzrbQ.woff2",
-    "fallback-fonts/notosanssymbols2/v24/I_uyMoGduATTei9eI8daxVHDyfisHr71-vrgfE71.woff2",
-    "fallback-fonts/roboto/v32/KFOmCnqEu92Fr1Me4GZLCzYlKw.woff2",
-    "favicon.png",
-    "flutter.js",
-    "flutter_bootstrap.js",
-    "icons/Icon-192.png",
-    "icons/Icon-512.png",
-    "icons/Icon-maskable-192.png",
-    "icons/Icon-maskable-512.png",
-    "index.html",
-    "iphone-microphone-bootstrap.js",
-    "iphone-microphone-test.html",
-    "main.dart.js",
-    "manifest.json",
-    "mongolian_voice.js",
-    "mongolian_voice_worker.js",
-    "version.json"
+  "version": "763805d095c37f8d41dd",
+  "files": [
+    {
+      "url": "assets/AssetManifest.bin",
+      "bytes": 2485,
+      "sha256": "3c37d6767c2bc9017020f4a24ad668d430ccc09026a8e95241d2c48773cb4c0a"
+    },
+    {
+      "url": "assets/AssetManifest.bin.json",
+      "bytes": 3318,
+      "sha256": "e14b152b1e55c1c942e169dcaa7212bd530cc88ce0bf19cdba57928407dffa12"
+    },
+    {
+      "url": "assets/assets/book.json",
+      "bytes": 419043,
+      "sha256": "d831f3c1e2a75101b10e2a2d385a1e48b6d2c1b6f7f698509db51fb965aa212b"
+    },
+    {
+      "url": "assets/assets/cover/volume-1.png",
+      "bytes": 2081656,
+      "sha256": "c4d889235415fd7afee96c772de205aaa9dea8e912d4cdba19ddde64f73032a3"
+    },
+    {
+      "url": "assets/assets/entry_sources.json",
+      "bytes": 183158,
+      "sha256": "5ae229633432f7ee6f018334be93cb712274095177641adcdbd47cdd133f6105"
+    },
+    {
+      "url": "assets/assets/fonts/roboto-bold.ttf",
+      "bytes": 170760,
+      "sha256": "7d0b991ee3e0be7af01ad7ea8cd2beea6c00a25e679a0226b6737f079aafff86"
+    },
+    {
+      "url": "assets/assets/fonts/roboto-regular.ttf",
+      "bytes": 171676,
+      "sha256": "79e851404657dac2106b3d22ad256d47824a9a5765458edb72c9102a45816d95"
+    },
+    {
+      "url": "assets/assets/lexical_graph.json",
+      "bytes": 2841622,
+      "sha256": "f8bb35b9d9059fbf7878232886954e7170f2147233d2d3815766fdb2ac5df4c8"
+    },
+    {
+      "url": "assets/assets/privacy/policy.txt",
+      "bytes": 6924,
+      "sha256": "ced016078edcc628868f7abe6ce3d9fcb6da9eb868dd588ad1286a7fa70bc6ef"
+    },
+    {
+      "url": "assets/assets/terminology.json",
+      "bytes": 765053,
+      "sha256": "08c5e66bfd726bb612e3a99dd66f9d9880c3fb943b9321443d117a5493f9b7f3"
+    },
+    {
+      "url": "assets/assets/voice_search_hints.json",
+      "bytes": 1266,
+      "sha256": "8550451fc14b7b343c68cfa34398b892e4dc514ac2a398115c8b352e8c8ac1cf"
+    },
+    {
+      "url": "assets/FontManifest.json",
+      "bytes": 217,
+      "sha256": "8e6d16562efcc059473177c44b61e621c7ab37f305884d824dae6c651d648904"
+    },
+    {
+      "url": "assets/fonts/MaterialIcons-Regular.otf",
+      "bytes": 10176,
+      "sha256": "10f024b62d4e4f9c8c8dfd0e2c2d4b2cb304a21db6712a01e08106230c4eb2b9"
+    },
+    {
+      "url": "assets/NOTICES",
+      "bytes": 1345114,
+      "sha256": "d2344a52a9561b6c4c32be20d54c1e6a551d920af1bab5d413350eb636a27e45"
+    },
+    {
+      "url": "assets/packages/record_web/assets/js/record.fixwebmduration.js",
+      "bytes": 23286,
+      "sha256": "c345ad5d2fffb357ada647b9b690693452a2001bc5912f1e9066876ce016399b"
+    },
+    {
+      "url": "assets/packages/record_web/assets/js/record.worklet.js",
+      "bytes": 11803,
+      "sha256": "ba7e0f4c841480ee78c0b54e7eadd44455b916fefdb07410ee46159d82dcc08e"
+    },
+    {
+      "url": "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-asr.js",
+      "bytes": 53867,
+      "sha256": "d51ae8e8b756ee5e53423ffada0c9702973f154f561aca7984fe0b12f4060178"
+    },
+    {
+      "url": "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-kws.js",
+      "bytes": 9925,
+      "sha256": "03b44e372795fd907e84eecd29419e1d052dc6704ac06935c9bf9fe19b3e3434"
+    },
+    {
+      "url": "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-punctuation.js",
+      "bytes": 5108,
+      "sha256": "6d9721e5e11809e248a8cd64a9a50de43b047a9f059cfb35bea88a5e7265f49a"
+    },
+    {
+      "url": "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-speaker-diarization.js",
+      "bytes": 7794,
+      "sha256": "e266f54a4fc2c12a045ed7eeb7d9e26f539624095e7d438cd20f2b892c0a57ff"
+    },
+    {
+      "url": "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-speech-enhancement.js",
+      "bytes": 7935,
+      "sha256": "f4bdf7affe3e99d1f6879e02b7c9541cb2d88ec992302b4c1828e8e445c845eb"
+    },
+    {
+      "url": "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-tts.js",
+      "bytes": 33227,
+      "sha256": "b9cb4782010b22d64be31298a3e407170d2b8f5def471ea6011c42a921577e8f"
+    },
+    {
+      "url": "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-vad.js",
+      "bytes": 7772,
+      "sha256": "893f01168d529add8318c0a6055cf725e788585fda9b81722564a8c3c3f60e34"
+    },
+    {
+      "url": "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-wasm-web.js",
+      "bytes": 93039,
+      "sha256": "28f909145d93018c90c181035a008880ceaa94a72b66603dc7bb7c619714c23c"
+    },
+    {
+      "url": "assets/packages/sherpa_onnx_web/assets/sherpa-onnx-wasm-web.wasm",
+      "bytes": 15133855,
+      "sha256": "e0d84744c39a28121f7738a161a21612788f4e8f07879a7224e74919e9831573"
+    },
+    {
+      "url": "assets/shaders/ink_sparkle.frag",
+      "bytes": 8890,
+      "sha256": "2dca5ab93d4ec29e963f996f3916320ba60825e9537dfb149a68008c7a16b026"
+    },
+    {
+      "url": "assets/shaders/stretch_effect.frag",
+      "bytes": 6737,
+      "sha256": "ab412f07a5b9b50b67a885b24dbe16929738ae28630407d6490c924caf0a3220"
+    },
+    {
+      "url": "build42-android-qr.png",
+      "bytes": 1748,
+      "sha256": "06831218103cf14beca9b8b8286669732cfa1e3a09d6942c0a112fca10801cf0"
+    },
+    {
+      "url": "build42-public-release.json",
+      "bytes": 390,
+      "sha256": "910954352dc5f33d0c9fa021d53266ccf38a49d1849091c60033437eaab91616"
+    },
+    {
+      "url": "canvaskit/canvaskit.js",
+      "bytes": 86987,
+      "sha256": "bb559f6080c7d312ac2a912b4abec9f68ff3d3022d4a603c7796b9b31460642b"
+    },
+    {
+      "url": "canvaskit/canvaskit.js.symbols",
+      "bytes": 1356926,
+      "sha256": "384f80b392972c83fd4f262527e3d06215a297d33ed59732c726721e9d9311bd"
+    },
+    {
+      "url": "canvaskit/canvaskit.wasm",
+      "bytes": 7284602,
+      "sha256": "fbed517a43e82452404446683f00f2e876d835aed84410695759e67b6bb01cd3"
+    },
+    {
+      "url": "canvaskit/chromium/canvaskit.js",
+      "bytes": 86226,
+      "sha256": "6018b12bd8ed37e6952eee72d59c1cf7ad707ccdb74a0a45190010f77edd9068"
+    },
+    {
+      "url": "canvaskit/chromium/canvaskit.js.symbols",
+      "bytes": 1235870,
+      "sha256": "31c86fac6042dd8b756150832c1d15495d0d07742e2718f75dbdde5a5a91455e"
+    },
+    {
+      "url": "canvaskit/chromium/canvaskit.wasm",
+      "bytes": 5428806,
+      "sha256": "ae8ff1d858140f7b1300ced3fa89fb8c9dce0a400a0f4f1e11f6dcfb3315fdcf"
+    },
+    {
+      "url": "canvaskit/skwasm.js",
+      "bytes": 63537,
+      "sha256": "71d7d3e34bf71b52bdba3b588b103bba8148ba28de5754083e01b3398e7a6e1c"
+    },
+    {
+      "url": "canvaskit/skwasm.js.symbols",
+      "bytes": 1540006,
+      "sha256": "9137f1a3ae744dea575043abfc6e063a047e910e6dab1ee53e496c975d1c033e"
+    },
+    {
+      "url": "canvaskit/skwasm.wasm",
+      "bytes": 3593715,
+      "sha256": "e540fd5e8303b7b68ec2718cb49e9c421f8ade3075b15e02a7059a62654df9a1"
+    },
+    {
+      "url": "canvaskit/skwasm_heavy.js",
+      "bytes": 63650,
+      "sha256": "cec554b46ddcf4c0e63d799e0556d546f42d2c3f69316fb4f67ed776f6104558"
+    },
+    {
+      "url": "canvaskit/skwasm_heavy.js.symbols",
+      "bytes": 1672152,
+      "sha256": "b6b79ed497e11d4cd13cc46724f9e289eacc744d2d185e31c72d595cdf62772b"
+    },
+    {
+      "url": "canvaskit/skwasm_heavy.wasm",
+      "bytes": 5216217,
+      "sha256": "565f5cc1cca6ab120f11934b105f01fec4b58b480c82e0889dca93af8e6f8635"
+    },
+    {
+      "url": "canvaskit/webparagraph/canvaskit.js",
+      "bytes": 76114,
+      "sha256": "3110e3e4d9b7b5657d336f253aaca8acca5777cde9319fb69ac302d6ff5a8b23"
+    },
+    {
+      "url": "canvaskit/webparagraph/canvaskit.js.symbols",
+      "bytes": 963641,
+      "sha256": "44d6c47919106235cf32252252490cdf798d907ee874ba343ab53dc94bc2a9dc"
+    },
+    {
+      "url": "canvaskit/webparagraph/canvaskit.wasm",
+      "bytes": 3729129,
+      "sha256": "0ce1b05082efdc8529550e8a01f6ff0593972d55525035010e26f5600aa9f254"
+    },
+    {
+      "url": "canvaskit/wimp.js",
+      "bytes": 59127,
+      "sha256": "8fd8a47480c6eb0a374d159912d0b3fb15661b41f5c113ecdd39c2f01f2bee46"
+    },
+    {
+      "url": "canvaskit/wimp.js.symbols",
+      "bytes": 1813030,
+      "sha256": "b4907ebd33131302a8cd99f7c55f52357bdfde04f421b605a616ba8764ae1de4"
+    },
+    {
+      "url": "canvaskit/wimp.wasm",
+      "bytes": 3581677,
+      "sha256": "e924eaafd801d41e017d178f3fd5cf8a417f641fe35c9ed34a4e1d7582283e0c"
+    },
+    {
+      "url": "download.html",
+      "bytes": 2685,
+      "sha256": "9e9b017dab2468ed457bf793d963e33d248759a4d583922d6d6f7bf7d8678580"
+    },
+    {
+      "url": "fallback-fonts/notosanssymbols/v43/rP2up3q65FkAtHfwd-eIS2brbDN6gxP34F9jRRCe4W3gfQ8gb_VFRkzrbQ.woff2",
+      "bytes": 69116,
+      "sha256": "08202e258ea583254c036cff46a7077bb5af4f82c41a6c0a6775f6e44d99f1aa"
+    },
+    {
+      "url": "fallback-fonts/NotoSansSymbols-OFL.txt",
+      "bytes": 4383,
+      "sha256": "b118dd41337806a5d4797052c77caf3bd096aed783e5eb21b4d11154351e1ac0"
+    },
+    {
+      "url": "fallback-fonts/notosanssymbols2/v24/I_uyMoGduATTei9eI8daxVHDyfisHr71-vrgfE71.woff2",
+      "bytes": 382716,
+      "sha256": "c90fbe98152bbb119a7e521a048c6aa6fc367879d6e3dae6db5a17582de25ead"
+    },
+    {
+      "url": "fallback-fonts/NotoSansSymbols2-OFL.txt",
+      "bytes": 4383,
+      "sha256": "b118dd41337806a5d4797052c77caf3bd096aed783e5eb21b4d11154351e1ac0"
+    },
+    {
+      "url": "fallback-fonts/roboto/v32/KFOmCnqEu92Fr1Me4GZLCzYlKw.woff2",
+      "bytes": 63464,
+      "sha256": "35b02ca266b79eb4996590f15817425a1ce9ebf48f84471843233ff614656bf2"
+    },
+    {
+      "url": "fallback-fonts/Roboto-LICENSE.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "url": "favicon.png",
+      "bytes": 873,
+      "sha256": "64cc0c5eaa48bcad7850bd76d0cbbdd2aa1c268959743b1980043715a4e193ff"
+    },
+    {
+      "url": "flutter.js",
+      "bytes": 12136,
+      "sha256": "2beb1ce6b159c71540aa66030af1d7964b6a92377cc78473745e02f97b74effe"
+    },
+    {
+      "url": "flutter_bootstrap.js",
+      "bytes": 13397,
+      "sha256": "f2b733eec8838f6c2ba2b20302e790e175e06d2eb0f3066774a71dce26137cc6"
+    },
+    {
+      "url": "icons/Icon-192.png",
+      "bytes": 3173,
+      "sha256": "fd43569dc2d89f316a82053a449f2c5bfee7608e1ad18f49db121c1854db48c8"
+    },
+    {
+      "url": "icons/Icon-512.png",
+      "bytes": 7851,
+      "sha256": "709a57de1374a78845cb69be6b4e79778da6ae1b98ce9b16142aa508dad8e856"
+    },
+    {
+      "url": "icons/Icon-maskable-192.png",
+      "bytes": 2850,
+      "sha256": "3d4a72b54c7727b5d5df205bbfa92a5057e2e567628db7172bc9e306c8e65d2f"
+    },
+    {
+      "url": "icons/Icon-maskable-512.png",
+      "bytes": 6591,
+      "sha256": "946904c8c6c9a5a5a0f95c327c41a8de562a52ace0b77f4930e516ae2cd329e1"
+    },
+    {
+      "url": "index.html",
+      "bytes": 1806,
+      "sha256": "0577a4e4d80cd19885e3b9dec8297ef8104bbd747a7c9b6dfb17f758f5a2fb74"
+    },
+    {
+      "url": "iphone-microphone-bootstrap.js",
+      "bytes": 13530,
+      "sha256": "b2f92f0696e336863ef8e36f561901c1fa84946bd41da22724f35694c0982b69"
+    },
+    {
+      "url": "iphone-microphone-release.json",
+      "bytes": 360,
+      "sha256": "6c9ce5615b2e825671f2daca57610baf59adb94fec2fc6dd8657958975d82354"
+    },
+    {
+      "url": "iphone-microphone-test.html",
+      "bytes": 1827,
+      "sha256": "b66c0ceefe1c4fe03026ea2bc64ca247c16d9006f52b9425f577e48d6a26528a"
+    },
+    {
+      "url": "main.dart.js",
+      "bytes": 2936603,
+      "sha256": "cf5d44d50942dd1aefe081b3e85e26bda6626070fabbaa4aa902cadb438f193d"
+    },
+    {
+      "url": "manifest.json",
+      "bytes": 896,
+      "sha256": "ccb4af4a6298d2e5b294496dc68818405d4783fa529dfdadbbb25d9664a93bfb"
+    },
+    {
+      "url": "mongolian_voice.js",
+      "bytes": 9367,
+      "sha256": "250bcfbf3f6763b07c7c156d36f79eaecd257da4a5f330194377aa77eee0a1c3"
+    },
+    {
+      "url": "mongolian_voice_worker.js",
+      "bytes": 2529,
+      "sha256": "f288edb7ae9fb70f0c63b61c8ab4836d172fae8a70d266ef6fbc245812b87ea6"
+    },
+    {
+      "url": "README.md",
+      "bytes": 363,
+      "sha256": "2dfd573e0a9ccba806f6db8e06da95f9c1eceb80171915324b9ce758daec5c2b"
+    },
+    {
+      "url": "version.json",
+      "bytes": 112,
+      "sha256": "0f7cd4bd409fce3ed157d89ad92268b8b3b5e666db3bbc5d88971ccca5f20191"
+    }
   ],
-  "lazyVoiceModelAssets": [
-    "assets/assets/asr/LICENSE-Apache-2.0.txt",
-    "assets/assets/asr/LICENSE-Whisper-MIT.txt",
-    "assets/assets/asr/MODEL_CARD.md",
-    "assets/assets/asr/NOTICE.txt",
-    "assets/assets/asr/tiny-decoder.int8.onnx",
-    "assets/assets/asr/tiny-encoder.fp32.onnx",
-    "assets/assets/asr/tiny-tokens.hex.txt"
+  "lazyFiles": [
+    {
+      "url": "assets/assets/asr/LICENSE-Apache-2.0.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "url": "assets/assets/asr/LICENSE-Whisper-MIT.txt",
+      "bytes": 1063,
+      "sha256": "b5d65a59060e68c4ff940e1eddfa6f94b2d68fdf58ed7f4dd57721c997e35e9d"
+    },
+    {
+      "url": "assets/assets/asr/MODEL_CARD.md",
+      "bytes": 3369,
+      "sha256": "051d8a37a32edf8ed94ff3416a0aa9296582c5846d8d07b6a683ef285d5b6a86"
+    },
+    {
+      "url": "assets/assets/asr/NOTICE.txt",
+      "bytes": 1655,
+      "sha256": "8034b690fa5733dfc883da88005ee6fd3208a1b84a5e464ee81bcfb324b6e56e"
+    },
+    {
+      "url": "assets/assets/asr/tiny-decoder.int8.onnx",
+      "bytes": 50015168,
+      "sha256": "480008823b60093a6f4661856d326f5e06703940de48c1596fb0e0a2454722e2"
+    },
+    {
+      "url": "assets/assets/asr/tiny-encoder.fp32.onnx",
+      "bytes": 37634682,
+      "sha256": "91feaf2f825524d7abf28d23638b274541813052230c4320bb6fdc6ab8c009e3"
+    },
+    {
+      "url": "assets/assets/asr/tiny-tokens.hex.txt",
+      "bytes": 1274554,
+      "sha256": "d82cf0323b4b5fbad815b30cda37db0fcf52093fdc9d3de5111b2cf690497272"
+    }
   ]
 }

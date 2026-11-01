@@ -1,0 +1,8 @@
+{
+  "sourceCommit": "00611d763054dc1e0c875bbd5d6740982388ced2",
+  "mainSha256": "cf5d44d50942dd1aefe081b3e85e26bda6626070fabbaa4aa902cadb438f193d",
+  "automaticPauseSeconds": 1.3,
+  "androidApkChanged": false,
+  "liveIphoneVerified": false,
+  "verification": "See preserved local evidence; desktop browser tests do not establish live iPhone accuracy."
+}
