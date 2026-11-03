@@ -83,3 +83,10 @@ We may update this policy when the application or provider practices change. The
 
 
 © 2026 Dale A. Vaughn · Support · Privacy contact
+
+
+Build 43 — optional Error Reporting Box (November 3, 2026)
+
+When you press Send report, the term, entry ID, category, report language, build version, description and suggested correction are sent through Vercel to the author's private GitHub repository for review. Vercel receives ordinary network information, including your IP address, for delivery and abuse prevention. No microphone audio, saved translations or other local records are automatically attached. Do not include personal or confidential information. Reports are kept for review without a fixed deletion schedule. Contact illteachyoutoo@yahoo.com about deletion. Submitting a report does not automatically change the dictionary.
+
+Алдаа мэдээлэх: Зөвхөн «Мэдээлэл илгээх» товчийг дарахад нэр томьёо, бичлэгийн дугаар, төрөл, мэдээллийн хэл, хувилбар, тайлбар болон санал болгосон засварыг Vercel үйлчилгээгээр дамжуулан зохиогчийн хувийн GitHub санд илгээнэ. Хувийн болон нууц мэдээлэл бүү оруулна уу. Дууны бичлэг болон хадгалсан орчуулгыг автоматаар хавсаргахгүй. Мэдээлэл нь толь бичгийг автоматаар өөрчлөхгүй.

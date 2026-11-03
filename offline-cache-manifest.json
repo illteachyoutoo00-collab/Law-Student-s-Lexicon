@@ -1,5 +1,5 @@
 {
-  "version": "763805d095c37f8d41dd",
+  "version": "206879ffdd29cfac0a0d",
   "files": [
     {
       "url": "assets/AssetManifest.bin",
@@ -43,8 +43,8 @@
     },
     {
       "url": "assets/assets/privacy/policy.txt",
-      "bytes": 6924,
-      "sha256": "ced016078edcc628868f7abe6ce3d9fcb6da9eb868dd588ad1286a7fa70bc6ef"
+      "bytes": 8235,
+      "sha256": "5d357cd16fc5ec66cd392bf132714ba1770317db9194707f61570ba865de354f"
     },
     {
       "url": "assets/assets/terminology.json",
@@ -63,13 +63,13 @@
     },
     {
       "url": "assets/fonts/MaterialIcons-Regular.otf",
-      "bytes": 10176,
-      "sha256": "10f024b62d4e4f9c8c8dfd0e2c2d4b2cb304a21db6712a01e08106230c4eb2b9"
+      "bytes": 10268,
+      "sha256": "92560da99ec0b9bae0a66eabeb65c66132c56127e1e0328d3428042c9381a29a"
     },
     {
       "url": "assets/NOTICES",
-      "bytes": 1345114,
-      "sha256": "d2344a52a9561b6c4c32be20d54c1e6a551d920af1bab5d413350eb636a27e45"
+      "bytes": 1345089,
+      "sha256": "d2b584b88c962133cf6389ad0f0da2ec2d620583947aa90a4cb85140dc5ef5d6"
     },
     {
       "url": "assets/packages/record_web/assets/js/record.fixwebmduration.js",
@@ -283,8 +283,8 @@
     },
     {
       "url": "flutter_bootstrap.js",
-      "bytes": 13397,
-      "sha256": "f2b733eec8838f6c2ba2b20302e790e175e06d2eb0f3066774a71dce26137cc6"
+      "bytes": 13394,
+      "sha256": "5094248fb0e1577a16e7e564e19325cdd429b24e26425dd5a98fa708615f840c"
     },
     {
       "url": "icons/Icon-192.png",
@@ -328,8 +328,8 @@
     },
     {
       "url": "main.dart.js",
-      "bytes": 2936603,
-      "sha256": "cf5d44d50942dd1aefe081b3e85e26bda6626070fabbaa4aa902cadb438f193d"
+      "bytes": 2998219,
+      "sha256": "aa20bdc115617bd5b5351965f431f99cdec1880112d42628176770877ec7fc35"
     },
     {
       "url": "manifest.json",
@@ -348,13 +348,13 @@
     },
     {
       "url": "README.md",
-      "bytes": 363,
-      "sha256": "2dfd573e0a9ccba806f6db8e06da95f9c1eceb80171915324b9ce758daec5c2b"
+      "bytes": 678,
+      "sha256": "a5706e2ca763c8288ca8a6e29243d442a471ee66803892a2d4f174e0b6177cef"
     },
     {
       "url": "version.json",
       "bytes": 112,
-      "sha256": "0f7cd4bd409fce3ed157d89ad92268b8b3b5e666db3bbc5d88971ccca5f20191"
+      "sha256": "484e6fb4ea4c4d4d1d11b5f4f53a2eee2b56e03f9ed29ddef37e6c5a80ae8bdb"
     }
   ],
   "lazyFiles": [

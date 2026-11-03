@@ -1,0 +1,12 @@
+{
+  "build": 43,
+  "version": "1.4.25+43",
+  "source_commit": "2ae4d7d8bc6366c512e288638d9c187211dfc458",
+  "api_commit": "d7ae3186095b3d41a853f9b8d84bfd2ba2191249",
+  "api_endpoint": "https://lexicon-error-reporting.vercel.app/api/report",
+  "entries": 652,
+  "flutter_tests_passed": 62,
+  "api_tests_passed": 15,
+  "student_form_english_and_mongolian_verified": true,
+  "website": "https://illteachyoutoo00-collab.github.io/Law-Student-s-Lexicon/"
+}
