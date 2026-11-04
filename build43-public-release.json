@@ -16,5 +16,15 @@
   "android_update_from_build42_verified": true,
   "android_english_and_mongolian_reports_verified": true,
   "android_verification_run": "https://github.com/illteachyoutoo00-collab/law-students-lexicon-ios/actions/runs/41691761205",
-  "android_feature_checks_run": "https://github.com/illteachyoutoo00-collab/law-students-lexicon-ios/actions/runs/41694850686"
+  "android_feature_checks_run": "https://github.com/illteachyoutoo00-collab/law-students-lexicon-ios/actions/runs/41694850686",
+  "web_source_commit": "ac29f775aeba0887789edf48a308f61443de20a4",
+  "web_update": {
+    "report_button": "prominent bilingual filled button",
+    "phone_layout": "scrollable controls preserve result space with large text and keyboard",
+    "fingerprinted_entrypoints": true,
+    "targeted_checks_passed": 39,
+    "cache_upgrade_check_passed": true,
+    "physical_iphone_safari_tested": false,
+    "cache_version": "e2ff2cdc275cebfb9b95"
+  }
 }

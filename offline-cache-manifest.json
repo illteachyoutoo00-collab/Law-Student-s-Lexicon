@@ -1,6 +1,11 @@
 {
-  "version": "206879ffdd29cfac0a0d",
+  "version": "e2ff2cdc275cebfb9b95",
   "files": [
+    {
+      "url": "android-download-qr.png",
+      "bytes": 1118,
+      "sha256": "c9abd0b4e2c1ac1f7d8b4e043e81a46638a58f3e9ce5f5061d13ed63f1ed41cf"
+    },
     {
       "url": "assets/AssetManifest.bin",
       "bytes": 2485,
@@ -68,8 +73,8 @@
     },
     {
       "url": "assets/NOTICES",
-      "bytes": 1345089,
-      "sha256": "d2b584b88c962133cf6389ad0f0da2ec2d620583947aa90a4cb85140dc5ef5d6"
+      "bytes": 1345114,
+      "sha256": "d2344a52a9561b6c4c32be20d54c1e6a551d920af1bab5d413350eb636a27e45"
     },
     {
       "url": "assets/packages/record_web/assets/js/record.fixwebmduration.js",
@@ -135,16 +140,6 @@
       "url": "assets/shaders/stretch_effect.frag",
       "bytes": 6737,
       "sha256": "ab412f07a5b9b50b67a885b24dbe16929738ae28630407d6490c924caf0a3220"
-    },
-    {
-      "url": "build42-android-qr.png",
-      "bytes": 1748,
-      "sha256": "06831218103cf14beca9b8b8286669732cfa1e3a09d6942c0a112fca10801cf0"
-    },
-    {
-      "url": "build42-public-release.json",
-      "bytes": 390,
-      "sha256": "910954352dc5f33d0c9fa021d53266ccf38a49d1849091c60033437eaab91616"
     },
     {
       "url": "canvaskit/canvaskit.js",
@@ -238,8 +233,8 @@
     },
     {
       "url": "download.html",
-      "bytes": 2685,
-      "sha256": "9e9b017dab2468ed457bf793d963e33d248759a4d583922d6d6f7bf7d8678580"
+      "bytes": 2871,
+      "sha256": "de649f53efd3bcdf6a02331ee581d98b63e0fd136fd5c1649353f5377feef447"
     },
     {
       "url": "fallback-fonts/notosanssymbols/v43/rP2up3q65FkAtHfwd-eIS2brbDN6gxP34F9jRRCe4W3gfQ8gb_VFRkzrbQ.woff2",
@@ -282,9 +277,9 @@
       "sha256": "2beb1ce6b159c71540aa66030af1d7964b6a92377cc78473745e02f97b74effe"
     },
     {
-      "url": "flutter_bootstrap.js",
-      "bytes": 13394,
-      "sha256": "5094248fb0e1577a16e7e564e19325cdd429b24e26425dd5a98fa708615f840c"
+      "url": "flutter_bootstrap.5687dfe7643226330d14.js",
+      "bytes": 13525,
+      "sha256": "885b3f41c4d83cb34439ffcde1c1c984ea77efe9dbe609cd24a301aaf097d003"
     },
     {
       "url": "icons/Icon-192.png",
@@ -308,28 +303,13 @@
     },
     {
       "url": "index.html",
-      "bytes": 1806,
-      "sha256": "0577a4e4d80cd19885e3b9dec8297ef8104bbd747a7c9b6dfb17f758f5a2fb74"
+      "bytes": 1828,
+      "sha256": "8c1f6489fd05330b2d012e9b3b4633510a9537c0bfb370faa51f6c8b484acfcc"
     },
     {
-      "url": "iphone-microphone-bootstrap.js",
-      "bytes": 13530,
-      "sha256": "b2f92f0696e336863ef8e36f561901c1fa84946bd41da22724f35694c0982b69"
-    },
-    {
-      "url": "iphone-microphone-release.json",
-      "bytes": 360,
-      "sha256": "6c9ce5615b2e825671f2daca57610baf59adb94fec2fc6dd8657958975d82354"
-    },
-    {
-      "url": "iphone-microphone-test.html",
-      "bytes": 1827,
-      "sha256": "b66c0ceefe1c4fe03026ea2bc64ca247c16d9006f52b9425f577e48d6a26528a"
-    },
-    {
-      "url": "main.dart.js",
-      "bytes": 2998219,
-      "sha256": "aa20bdc115617bd5b5351965f431f99cdec1880112d42628176770877ec7fc35"
+      "url": "main.a6a55148fca32f2ba616.dart.js",
+      "bytes": 2998944,
+      "sha256": "a6a55148fca32f2ba616aec9f6f5918f8e3b72f5dfe63132091c1719ccdad8b7"
     },
     {
       "url": "manifest.json",
@@ -347,14 +327,14 @@
       "sha256": "f288edb7ae9fb70f0c63b61c8ab4836d172fae8a70d266ef6fbc245812b87ea6"
     },
     {
-      "url": "README.md",
-      "bytes": 678,
-      "sha256": "a5706e2ca763c8288ca8a6e29243d442a471ee66803892a2d4f174e0b6177cef"
-    },
-    {
       "url": "version.json",
       "bytes": 112,
       "sha256": "484e6fb4ea4c4d4d1d11b5f4f53a2eee2b56e03f9ed29ddef37e6c5a80ae8bdb"
+    },
+    {
+      "url": "web-qr.png",
+      "bytes": 1107,
+      "sha256": "985915cba5e27d0f5482d4257f276e9fa64dc26bb994ac06fa993779bc23b542"
     }
   ],
   "lazyFiles": [
