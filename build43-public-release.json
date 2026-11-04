@@ -8,5 +8,13 @@
   "flutter_tests_passed": 62,
   "api_tests_passed": 15,
   "student_form_english_and_mongolian_verified": true,
-  "website": "https://illteachyoutoo00-collab.github.io/Law-Student-s-Lexicon/"
+  "website": "https://illteachyoutoo00-collab.github.io/Law-Student-s-Lexicon/",
+  "apk": "https://github.com/illteachyoutoo00-collab/Law-Student-s-Lexicon/releases/download/v1.4.25-build43/LawStudentsLexicon-Build43.apk",
+  "apk_sha256": "9fba93e4eb619a2f875aa8158fd8f3e331948384d85573510b2ec542a1818acf",
+  "apk_bytes": 242754654,
+  "download_page": "https://illteachyoutoo00-collab.github.io/Law-Student-s-Lexicon/download.html",
+  "android_update_from_build42_verified": true,
+  "android_english_and_mongolian_reports_verified": true,
+  "android_verification_run": "https://github.com/illteachyoutoo00-collab/law-students-lexicon-ios/actions/runs/41691761205",
+  "android_feature_checks_run": "https://github.com/illteachyoutoo00-collab/law-students-lexicon-ios/actions/runs/41694850686"
 }
